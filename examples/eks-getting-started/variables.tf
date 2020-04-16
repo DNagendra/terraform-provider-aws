@@ -3,6 +3,6 @@
 #
 
 variable "cluster-name" {
-  default = "terraform-eks-infiniai"
+  default = "terraform-eks-cluster"
   type    = string
 }
